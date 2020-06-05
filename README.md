@@ -67,6 +67,7 @@
 2. 覆盖索引
 3. b tree和b+tree区别
 4. 索引的优化，哪些情况下索引会失效
+5. [SQL语句执行过程详解](https://juejin.im/post/5b7036de6fb9a009c40997eb)
 
 ---
 #### 算法篇：
@@ -85,6 +86,7 @@
 1. http和https区别？
 2. http 2.0和1.0的区别？
 3. TCP/IP协议，熟悉相关网络开发相关知识和组件，如netty，protobuf
+4. [一个HTTP请求的过程](https://blog.csdn.net/wolf_love666/article/details/93600904)
 
 ---
 #### Maven篇：
